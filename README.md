@@ -1,4 +1,4 @@
-tic
+Readme - file
 ===
 EL objetivo es crear un proyecto con Android Studio que:
 
